@@ -67,4 +67,4 @@ This challenge is graded based on the following criteria:
 
 
 ## Link
-<a href="https://sinthiya1.github.io/Landing-Page/"> Password Generator Website</a>
+<a href="https://sinthiya1.github.io/Password-Generator/"> Password Generator Website</a>
